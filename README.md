@@ -1,10 +1,8 @@
 # PyPDF
 
-*This readme is entirely AI generated, but u will see some 'additions' by me*
+*This readme is entirely AI generated*
 
 >Certainly! Here's a detailed `README.md` file for your `PyPDF` application, including instructions for setup, usage, and a note about future features like PDF editing.
-
----
 
 **PyPDF** is a user-friendly GUI application for merging PDF files using Python's Tkinter library. The app allows users to select multiple PDF files, reorder them, and merge them into a single PDF document. It is designed to be simple and efficient for users who need to combine PDF documents quickly.
 
